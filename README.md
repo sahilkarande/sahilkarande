@@ -1,60 +1,82 @@
-<h1 align="center">Hi 👋, I'm Sahil Karande</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9A6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Enthusiast;Web+Dev+%7C+Real-Time+Analytics+%7C+ML;PG-DBDA+%7C+CDAC+Mumbai;Let's+build+impactful+solutions.">
+<h1 align="center">👋 Hi, I'm Sahil Karande</h1>
+<h3 align="center">AI & Data Science | Real-Time Analytics | Web Development</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9A6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Enthusiast;Web+Dev+%7C+Real-Time+Analytics+%7C+ML;PG-DBDA+%7C+CDAC+Mumbai;Building+Impactful+Solutions" alt="Typing Animation">
+</p>
 
 ---
 
-🎓 I'm a **Computer Engineering Graduate** and  **PG-Diploma in Big Data Analytics** from **CDAC Mumbai**, serving as the **Technical Class Representative**.
+## 👨‍💻 About Me  
+- 🎓 **Computer Engineering Graduate** | **PG-DBDA @ CDAC Mumbai** (Technical CR)  
+- 💡 Passionate about **AI, Data Pipelines & Real-Time Analytics**  
+- 🛠️ Building projects with **Kafka • Spark • MongoDB • NLP**  
+- 🌱 Currently learning **Tableau | Power BI | Streaming Frameworks**  
+- 📫 Reach me at: **skarande220@gmail.com**  
+- 🌐 Portfolio: [sahilkarande.github.io/myportfolio](https://sahilkarande.github.io/myportfolio)  
 
-💡 I’m passionate about building intelligent systems and exploring:
-- **Real-time data pipelines** (Kafka + Spark)
-- **Voice/Text emotion analysis**
-- **EDA dashboards** (Streamlit, Tableau, Power BI)
+---
 
-🛠️ **Key Projects:**
-- 🎙️ [**NeuroAI**](https://github.com/sahilkarande/neuroai) - Real-Time Mood Detection from Voice & Text  
+## 🛠️ Featured Projects  
+
+- 🎙️ [**NeuroAI**](https://github.com/sahilkarande/neuroai)  
+  Real-Time Mood Detection from Voice & Text  
+  *Tech: Python • Hugging Face • Kafka • Spark • MongoDB*  
+
 - 📊 [**Hotel Booking EDA Dashboard**](https://github.com/sahilkarande/hotel-booking-eda)  
+  Interactive Dashboard for Operational Insights  
+  *Tech: Python • Streamlit • Tableau*  
+
 - 🚗 [**Used Cars Price Analysis**](https://github.com/sahilkarande/used-cars-analysis)  
-- 🐾 [**Furrify**](https://furrify.netlify.app) - A Pet Community Website
+  Exploratory Data Analysis on Used Car Market Trends  
+  *Tech: Pandas • Seaborn • Matplotlib*  
 
-🌱 Currently Learning:
-`Apache Kafka` • `Spark Streaming` • `MongoDB` • `NLP` • `Tableau` • `Power BI`
-
-📫 Reach me at: **skarande220@gmail.com**  
-🌐 Portfolio: [sahilkarande.github.io/myportfolio](https://sahilkarande.github.io/myportfolio)
+- 🐾 [**Furrify**](https://furrify.netlify.app)  
+  A Pet Community Website  
+  *Tech: React • Node.js • MongoDB*  
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack  
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)  
+
+**Frameworks & Tools:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+
+**Visualization & BI:**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+**Big Data & Streaming:**  
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilkarande&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkarande&layout=compact&theme=dark&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkarande&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkarande&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkarande&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkarande&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahilkarande&theme=darkhub&no-frame=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
@@ -62,11 +84,11 @@
 
 ---
 
-### 🌍 Connect With Me
+## 🌍 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-karande-a77aa7207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/sahilkarande9" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -81,6 +103,21 @@
 
 ---
 
+## ✨ Fun Zone  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random Dev Joke" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilkarande&color=brightgreen" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://github.com/sahilkarande/sahilkarande/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
