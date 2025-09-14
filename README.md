@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Karande</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9A6&center=true&vCenter=true&width=750&lines=Data+%26+AI+Enthusiast+%7C+Web+Dev+Explorer;Real-Time+Analytics+%7C+ML+%7C+Streaming+Pipelines;PG-DBDA+@+CDAC+Mumbai;Let's+build+things+that+matter.">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9A6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Enthusiast;Web+Dev+%7C+Real-Time+Analytics+%7C+ML;PG-DBDA+%7C+CDAC+Mumbai;Let's+build+impactful+solutions.">
+
 
 ---
 
-🎓 I'm a **Computer Engineering Graduate** and currently pursuing **PG-Diploma in Big Data Analytics** from **CDAC Mumbai**, serving as the **Technical Class Representative**.
+🎓 I'm a **Computer Engineering Graduate** and  **PG-Diploma in Big Data Analytics** from **CDAC Mumbai**, serving as the **Technical Class Representative**.
 
 💡 I’m passionate about building intelligent systems and exploring:
 - **Real-time data pipelines** (Kafka + Spark)
