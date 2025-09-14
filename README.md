@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Sahil Karande</h1>
-<h3 align="center">AI & Data Science | Real-Time Analytics | Web Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9A6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Enthusiast;Web+Dev+%7C+Real-Time+Analytics+%7C+ML;PG-DBDA+%7C+CDAC+Mumbai;Building+Impactful+Solutions" alt="Typing Animation">
