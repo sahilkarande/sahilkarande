@@ -12,7 +12,7 @@
 - 🛠️ Building projects with **Kafka • Spark • MongoDB • NLP**  
 - 🌱 Currently learning **Tableau | Power BI | Streaming Frameworks**  
 - 📫 Reach me at: **skarande220@gmail.com**  
-- 🌐 Portfolio: [sahilkarande.github.io/myportfolio](https://sahilkarande.github.io/myportfolio)  
+- 🌐 Portfolio: [sahilkarande.github.io/myportfolio](https://skarande220.pythonanywhere.com/)  
 
 ---
 
