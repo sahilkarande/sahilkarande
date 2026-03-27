@@ -101,9 +101,15 @@ focus:
 ## 🌐 Connect
 
 <p align="center">
-  <a href="mailto:skarande220@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sahil-karande-a77aa7207/">LinkedIn</a> •
-  <a href="https://skarande220.pythonanywhere.com">Portfolio</a>
+  <a href="mailto:skarande220@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-karande-a77aa7207/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://skarande220.pythonanywhere.com">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+  </a>
 </p>
 
 ---
