@@ -32,9 +32,7 @@
 
 ## 🏗️ Selected Work
 
----
-
-### 👁️ Netra-I (ProctoGuard) - Currently Working
+### 👁️ Netra-I (ProctoGuard) *(Ongoing)*
 
 AI-based smart proctoring system
 → Detects suspicious behavior using computer vision
@@ -58,7 +56,6 @@ Real-time mood detection from voice & text
 
 ---
 
-
 ### 📊 Analytics Projects
 
 * Hotel Booking Intelligence Dashboard
@@ -78,16 +75,19 @@ Real-time mood detection from voice & text
 
 ---
 
-## 📊 GitHub Pulse
+## 🧩 Engineering Mindset
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkarande&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=sahilkarande&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+```yaml
+approach:
+  - Build systems, not just features
+  - Focus on scalability and performance
+  - Solve real-world problems using AI
+  - Keep learning and iterating fast
+```
 
 ---
 
-## 🧩 Current Focus
+## 📌 Current Focus
 
 ```yaml
 focus:
