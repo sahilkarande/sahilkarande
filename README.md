@@ -103,7 +103,7 @@ focus:
 <p align="center">
   <a href="mailto:skarande220@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/sahil-karande-a77aa7207/">LinkedIn</a> •
-  <a href="https://sahilkarande.github.io/myportfolio/">Portfolio</a>
+  <a href="https://skarande220.pythonanywhere.com">Portfolio</a>
 </p>
 
 ---
