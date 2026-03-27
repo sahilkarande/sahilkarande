@@ -32,15 +32,9 @@
 
 ## 🏗️ Selected Work
 
-### 🧠 NeuroAI
-
-Real-time mood detection from voice & text
-→ Streaming pipeline with live inference
-**Stack:** Python · Kafka · Spark · Hugging Face · MongoDB
-
 ---
 
-### 👁️ Netra-I (ProctoGuard)
+### 👁️ Netra-I (ProctoGuard) - Currently Working
 
 AI-based smart proctoring system
 → Detects suspicious behavior using computer vision
@@ -55,6 +49,15 @@ AI-powered admin & document intelligence platform
 **Stack:** FastAPI · AI · MySQL
 
 ---
+
+### 🧠 NeuroAI
+
+Real-time mood detection from voice & text
+→ Streaming pipeline with live inference
+**Stack:** Python · Kafka · Spark · Hugging Face · MongoDB
+
+---
+
 
 ### 📊 Analytics Projects
 
