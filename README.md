@@ -1,9 +1,101 @@
-<h1 align="center">Sahil Karande</h1>
+<h1 align="center">Hey, I'm Sahil 👋</h1>
 
 <p align="center">
-  <b>AI Engineer • Data Systems • Real-Time Analytics</b><br>
-  Building intelligent, scalable, and impactful systems
+  <i>AI Engineer • Data Systems • Real-Time Applications</i>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00E6A8&center=true&vCenter=true&width=650&lines=AI+%7C+Data+%7C+Real-Time+Systems;Building+Scalable+Intelligent+Applications;Engineer+%7C+Mentor+%7C+Problem+Solver" />
+</p>
+
+---
+
+## 🧠 About Me
+
+* 💼 Project Engineer @ CDAC Mumbai
+* 🎓 Computer Engineering Graduate | PG-DBDA
+* 🧑‍🏫 Technical Mentor for students & working professionals
+* ⚡ Building **AI-driven, data-intensive & real-time systems**
+* 🧠 Focus: **Streaming, ML Systems, Scalable Architectures**
+
+---
+
+## 🚀 What I Do
+
+```diff
++ Build real-time AI & data systems
++ Design scalable backend & data pipelines
++ Deliver industry-level technical sessions
+```
+
+---
+
+## 🏗️ Selected Work
+
+### 🧠 NeuroAI
+
+Real-time mood detection from voice & text
+→ Streaming pipeline with live inference
+**Stack:** Python · Kafka · Spark · Hugging Face · MongoDB
+
+---
+
+### 👁️ Netra-I (ProctoGuard)
+
+AI-based smart proctoring system
+→ Detects suspicious behavior using computer vision
+**Stack:** OpenCV · ML · Python
+
+---
+
+### 🏢 Abhilekh
+
+AI-powered admin & document intelligence platform
+→ Automates workflows with intelligent insights
+**Stack:** FastAPI · AI · MySQL
+
+---
+
+### 📊 Analytics Projects
+
+* Hotel Booking Intelligence Dashboard
+* Used Cars Market Analysis
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,sql,nodejs,express,mongodb,mysql,kafka,spark,git" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
+</p>
+
+---
+
+## 📊 GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilkarande&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=sahilkarande&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🧩 Current Focus
+
+```yaml
+focus:
+  - Real-time data streaming systems
+  - Machine learning in production
+  - Scalable backend & AI architectures
+```
+
+---
+
+## 🌐 Connect
 
 <p align="center">
   <a href="mailto:skarande220@gmail.com">Email</a> •
@@ -13,103 +105,6 @@
 
 ---
 
-## About
-
-I design and build **AI-powered systems** that combine  
-machine learning, data pipelines, and real-time processing.
-
-- 🎓 Computer Engineering Graduate  
-- 📍 PG-DBDA @ CDAC Mumbai (Technical CR)  
-- ⚡ Focus: **AI Systems • Streaming Architectures • Data Engineering**  
-- 🧠 Interests: **NLP, Real-Time Intelligence, Scalable Systems**
-
----
-
-## Selected Work
-
-### 🧠 NeuroAI  
-Real-time mood detection from voice & text  
-→ Built a streaming pipeline for live inference and analysis  
-**Stack:** Python · Kafka · Spark · Hugging Face · MongoDB  
-
----
-
-### 👁️ Netra-I (ProctoGuard)  
-AI-based smart proctoring system using computer vision  
-→ Detects suspicious behavior during exams in real-time  
-**Stack:** OpenCV · ML · Python  
-
----
-
-### 🏢 Abhilekh  
-AI-powered admin & document intelligence platform  
-→ Automates company workflows with smart insights  
-**Stack:** FastAPI · AI · MySQL  
-
----
-
-### 📊 Hotel Booking Intelligence  
-Interactive analytics dashboard for business decisions  
-→ Identified booking patterns & revenue insights  
-**Stack:** Streamlit · Python · Tableau  
-
----
-
-### 🚗 Used Car Market Analysis  
-Exploratory analysis of pricing trends  
-→ Derived insights on resale value drivers  
-**Stack:** Pandas · Seaborn · Matplotlib  
-
----
-
-## Tech Stack
-
-**Core**  
-Python · SQL · JavaScript  
-
-**Frameworks**  
-FastAPI · Node.js · Express · Streamlit  
-
-**Data & AI**  
-Pandas · ML · NLP · Hugging Face  
-
-**Databases**  
-MongoDB · MySQL  
-
-**Big Data**  
-Kafka · Apache Spark  
-
-**BI & Visualization**  
-Tableau · Power BI  
-
----
-
-## GitHub Insights
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkarande&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkarande&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## What I Bring
-
-- ⚡ Ability to build **end-to-end AI systems**
-- 🧠 Strong **analytical & problem-solving mindset**
-- 🔁 Experience with **real-time pipelines & data flow**
-- 🤝 Leadership as **Technical CR (77 students)**
-
----
-
-## Currently Exploring
-
-- Real-Time Streaming Systems  
-- Advanced ML & Model Optimization  
-- Data Engineering at Scale  
-
----
-
-<p align="center">
-  <i>"Not just building projects — building systems that scale."</i>
+  <b>⚡ Building systems that scale, think, and create impact.</b>
 </p>
