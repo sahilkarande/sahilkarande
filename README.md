@@ -1,130 +1,107 @@
-<!-- ============================================================
-     SAHIL KARANDE — GitHub Profile README
-     Theme: Web-Slinger // Red & Blue Night Patrol
-     Replace every YOUR_GITHUB_USERNAME with your GitHub handle
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     SAHIL KARANDE · GitHub Profile
+     Theme: Night Patrol — red & blue web-slinger
+     Before pushing: replace every YOUR_GITHUB_USERNAME with your handle
+     ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D51,50:B11313,100:0B1D51&height=170&section=header&text=SAHIL%20KARANDE&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Swinging%20through%20data%2C%20one%20thread%20at%20a%20time&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="./assets/hero.svg" width="100%" alt="Sahil Karande — Project Engineer at CDAC" />
 
-<!-- ANIMATED NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=38&duration=3000&pause=900&color=E23636&center=true&vCenter=true&width=800&height=65&lines=%F0%9F%95%B7%EF%B8%8F+Hey%2C+I'm+Sahil+Karande;%F0%9F%95%B8%EF%B8%8F+Your+Neighbourhood+Data+Engineer" alt="Sahil Karande" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=E23636&center=true&vCenter=true&width=760&height=36&lines=%3E+spider-sense+tingling...+bottleneck+detected;%3E+weaving+pipelines+with+Kafka+%2B+Spark;%3E+teaching+machines+to+read%2C+see+%26+listen;%3E+building+NETRA-I+%E2%80%94+smarter+exams" alt="typing" />
 
-<!-- ROLE CYCLING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=4FA3FF&center=true&vCenter=true&width=820&height=40&lines=%5BROLE%5D+Project+Engineer+%40+CDAC+Mumbai;%5BFOCUS%5D+AI+Engineering+%7C+Data+Engineering+%7C+ML;%5BSTACK%5D+Kafka+%7C+Spark+%7C+FastAPI+%7C+Flask+%7C+OpenCV;%5BSENSE%5D+Detecting+bottlenecks+before+they+happen..." alt="roles" />
-
-<br/>
-
-<!-- BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=WEB+VISITORS&color=E23636&style=flat-square)
-&nbsp;
-![Role](https://img.shields.io/badge/ROLE-PROJECT_ENGINEER_@_CDAC_MUMBAI-1E3A8A?style=flat-square&logo=codeigniter&logoColor=white)
-&nbsp;
-![Education](https://img.shields.io/badge/B.TECH_CE_%7C_PG--DBDA-B11313?style=flat-square&logo=academia&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/BASE-MUMBAI,_IN-0B1D51?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/sahil-karande-a77aa7207/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:skarande220@gmail.com"><img src="https://img.shields.io/badge/Email-Send_a_Signal-E23636?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://skarande220.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-Enter_the_Web-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<p>
+<a href="https://www.linkedin.com/in/sahil-karande-a77aa7207/"><img src="https://img.shields.io/badge/LinkedIn-0B1D51?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:skarande220@gmail.com"><img src="https://img.shields.io/badge/Email-B11313?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://skarande220.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-0B1D51?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=CITIZENS+SAVED&color=E23636&style=for-the-badge" />
+</p>
 
 </div>
 
-```
-        \     |     /              ╔══════════════════════════════════════════╗
-     ----\----|----/----           ║  "Every system is a web. Pull one thread ║
-     \    \   |   /    /           ║   and you learn how the whole thing      ║
-    --\----\--|--/----/--          ║   holds together."                       ║
-       \    \ | /    /             ║                          — Sahil         ║
-   -----\----\|/----/-----         ╚══════════════════════════════════════════╝
-             /|\
-```
+<img src="./assets/web-divider.svg" width="100%" />
 
----
+## 🕷️ Origin Story
 
-## 🕷️ `> cat origin_story.json`
+<table>
+<tr>
+<td width="52%" valign="top">
 
-```json
-{
-  "name"       : "Sahil Karande",
-  "codename"   : "The Pipeline Weaver",
-  "role"       : "Project Engineer @ CDAC Mumbai",
-  "education"  : ["B.Tech in Computer Engineering", "PG-DBDA"],
-  "powers"     : ["AI Engineering", "Machine Learning", "Data Engineering"],
-  "special"    : "Real-time processing, streaming pipelines, intelligent automation",
-  "side_quest" : "Technical mentoring, teaching & designing assessments",
-  "mission"    : "Turn complex technical ideas into useful, reliable applications",
-  "motto"      : "I don't just want to build features. I want to understand,
-                  engineer, and improve the systems behind them."
-}
-```
+By day, I'm a **Project Engineer at CDAC Mumbai**. By night, I'm still wiring pipelines together, just with more coffee.
 
----
+I hold a B.Tech in Computer Engineering and a PG-DBDA, and I like the whole web of a system: backend services, data streams, the ML models in the middle, and the people who use what comes out.
 
-## 🕸️ `> spider-sense --scan interests`
+> *"I don't just want to build features. I want to understand, engineer, and improve the systems behind them."*
 
-```
-THREAD                           STRENGTH     TENSION     STATUS
-──────────────────────────────────────────────────────────────────
-ai-engineering                   ██████████     HIGH      🔴 SWINGING
-real-time-data-pipelines         █████████░     HIGH      🔴 SWINGING
-machine-learning                 █████████░     HIGH      🔴 SWINGING
-backend-architecture             ████████░░     MED       🔵 HOLDING
-cloud-and-deployment             ███████░░░     MED       🔵 LEVELLING UP
-technical-mentoring              █████████░     HIGH      🔴 SWINGING
+🎯 **Mission:** turn complex technical ideas into useful, reliable applications.
+
+</td>
+<td width="48%" valign="top">
+
+```python
+class Sahil(Engineer):
+    base     = "CDAC Mumbai 🏙️"
+    powers   = ["AI Engineering",
+                "Machine Learning",
+                "Data Engineering"]
+    focus    = ["real-time streams",
+                "intelligent automation"]
+    side_job = "mentor & assessment designer"
+
+    def patrol(self):
+        while city.has_problems():
+            self.build()
+            self.measure()
+            self.improve()
 ```
 
----
+</td>
+</tr>
+</table>
 
-## 🦸 `> ls ./web_of_projects/`
+<details>
+<summary><b>🕸️ Spider-sense readout</b>: what I'm tuned into right now</summary>
+
+<br/>
+
+```
+THREAD                       SIGNAL        STATUS
+────────────────────────────────────────────────────────
+ai-engineering               ██████████    🔴 SWINGING
+real-time-pipelines          █████████░    🔴 SWINGING
+machine-learning             █████████░    🔴 SWINGING
+backend-architecture         ████████░░    🔵 HOLDING
+cloud-and-deployment         ███████░░░    🔵 TRAINING
+technical-mentoring          █████████░    🔴 SWINGING
+```
+
+</details>
+
+<img src="./assets/web-divider.svg" width="100%" />
+
+## 🦸 Case Files
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 👁️ NETRA-I
-**Intelligent Examination & Proctoring Platform**
+<sub>`CASE #001` · 🚧 IN DEVELOPMENT</sub>
 
-A secure examination platform built to improve digital assessments and exam management.
+**Intelligent exam & proctoring platform.** Student verification with OTP, face calibration, camera monitoring, timed exams, tab-switch tracking and faculty analytics. Offline mode is next.
 
-- 🔐 Student verification & OTP workflows
-- 🎥 Face calibration & camera monitoring
-- ⏱️ Timed exams & tab-switch tracking
-- 📊 Faculty analytics & assessment management
-- 📴 Offline exam support *(development goal)*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-B11313?style=flat-square&logo=sqlalchemy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-`🚧 STATUS: IN DEVELOPMENT`
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,opencv,js&theme=dark&perline=6" height="34" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 Abhilekh
-**AI-Powered Document Intelligence**
+<sub>`CASE #002` · 🔬 EXPLORATION</sub>
 
-An administrative & document intelligence platform for streamlining document-centric workflows.
+**AI document intelligence.** Smart document processing and AI-assisted extraction on an API-first backend with structured storage.
 
-- 📄 Intelligent document processing
-- 🧠 AI-assisted information extraction
-- 🔌 API-first backend architecture
-- 🗄️ Structured data management
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LLMs](https://img.shields.io/badge/AI%2FLLMs-E23636?style=flat-square&logo=openai&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-`🔬 STATUS: DEVELOPMENT / EXPLORATION`
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql&theme=dark" height="34" />
+<img src="https://img.shields.io/badge/LLMs-E23636?style=for-the-badge&logo=openai&logoColor=white" height="34" />
 
 </td>
 </tr>
@@ -132,163 +109,162 @@ An administrative & document intelligence platform for streamlining document-cen
 <td width="50%" valign="top">
 
 ### 🧠 NeuroAI
-**Real-Time Mood Detection**
+<sub>`CASE #003` · 🧪 AI × DATA ENG</sub>
 
-Exploring emotion detection from voice and text using ML and streaming tech.
+**Real-time mood detection** from voice and text. Hugging Face models do emotion inference on a streaming pipeline.
 
-- 🎙️ Speech & text processing
-- 🤖 Emotion classification & inference
-- 🌊 Streaming pipeline architecture
-- 🗄️ Data storage & model integration
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-`🧪 STATUS: AI / DATA ENGINEERING`
+<img src="https://skillicons.dev/icons?i=python,kafka,spark,mongodb&theme=dark" height="34" />
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge" height="34" />
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Analytics & Intelligence
+### 📊 Analytics Squad
+<sub>`CASE #004` · 📈 SHIPPED</sub>
 
-**🏨 Hotel Booking Intelligence**
-Cancellation patterns & booking behaviour, visualised in Power BI.
+**🏨 Hotel Booking Intelligence:** cancellation patterns in Power BI.<br/>
+**🚗 Used Cars Market:** pricing trends in a Streamlit dashboard.
 
-**🚗 Used Cars Market Analysis**
-Pricing trends through an interactive Streamlit dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-`📈 STATUS: ANALYTICS PROJECTS`
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="34" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="34" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="34" />
 
 </td>
 </tr>
 </table>
 
----
+<img src="./assets/web-divider.svg" width="100%" />
 
-## 🧰 `> open utility_belt --all`
+## 🧰 Utility Belt
 
 <div align="center">
 
-**⚔️ Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
-
-**🕸️ Backend & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,git,github,vscode,linux&theme=dark" />
-
-**🌊 Databases & Data Engineering**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,kafka,spark&theme=dark" />
-
-**🧠 AI, ML & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws,azure,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,fastapi,nodejs,express,mysql,postgres,mongodb,kafka,spark,tensorflow,pytorch,opencv,aws,azure,gcp,linux,git,github,vscode&theme=dark&perline=12" />
 
 </div>
 
-| 🕷️ Gadget | Loaded With |
+<details>
+<summary><b>🔓 Open the full gadget inventory</b></summary>
+
+<br/>
+
+| Gadget | Loaded With |
 |---|---|
-| **Languages** | Python · Java · SQL · JavaScript |
-| **Data Engineering** | Apache Kafka · Apache Spark · PySpark · Hadoop |
-| **Databases** | MySQL · MongoDB · PostgreSQL · Cassandra |
-| **AI / ML** | Machine Learning · Deep Learning · NLP · Computer Vision · Hugging Face · LLMs |
-| **Backend** | Flask · FastAPI · Node.js · REST APIs |
-| **Analytics** | Power BI · Tableau · Streamlit · Pandas · NumPy |
-| **Cloud & DevOps** | AWS · Azure · GCP · Linux · Git · GitHub |
+| ⚔️ **Languages** | Python · Java · SQL · JavaScript |
+| 🌊 **Data Engineering** | Apache Kafka · Apache Spark · PySpark · Hadoop |
+| 🗄️ **Databases** | MySQL · MongoDB · PostgreSQL · Cassandra |
+| 🧠 **AI / ML** | ML · Deep Learning · NLP · Computer Vision · Hugging Face · LLMs |
+| 🕸️ **Backend** | Flask · FastAPI · Node.js · REST APIs |
+| 📊 **Analytics** | Power BI · Tableau · Streamlit · Pandas · NumPy |
+| ☁️ **Cloud & DevOps** | AWS · Azure · GCP · Linux · Git · GitHub |
 
----
+</details>
 
-## 📡 `> web-shooter --stats --user YOUR_GITHUB_USERNAME`
+<img src="./assets/web-divider.svg" width="100%" />
+
+## 📡 Patrol Report
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D0D0D&title_color=E23636&icon_color=4FA3FF&text_color=FFFFFF&border_color=B11313&ring_color=E23636" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&bg_color=0D0D0D&title_color=E23636&text_color=FFFFFF&border_color=B11313" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B0F1F&title_color=E23636&icon_color=4FA3FF&text_color=E6EDF3&border_color=B11313&ring_color=E23636&custom_title=Patrol%20Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&bg_color=0B0F1F&title_color=E23636&text_color=E6EDF3&border_color=B11313&custom_title=Web%20Fluid%20Mix" />
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=0B0F1F&border=B11313&stroke=1E3A8A&ring=E23636&fire=4FA3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E23636&sideLabels=4FA3FF&dates=9CA3AF" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=0D0D0D&border=B11313&stroke=1E3A8A&ring=E23636&fire=4FA3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E23636&sideLabels=4FA3FF&dates=9CA3AF" />
+### 🏆 Trophy Wall
 
-<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D0D0D&color=FFFFFF&line=E23636&point=4FA3FF&area=true&area_color=B11313&title_color=E23636&hide_border=false&custom_title=Night%20Patrol%20Activity" />
+### 🏙️ The City I Protect
+<sub>My contributions rendered as a 3D night skyline. It updates daily.</sub>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+### 🕷️ Spider on the Grid
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
----
+<details>
+<summary><b>📈 Night-shift activity graph</b></summary>
 
-## 🕷️ `> python3 spider.py --crawl contributions`
+<br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="spider crawling contributions" />
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B0F1F&color=E6EDF3&line=E23636&point=4FA3FF&area=true&area_color=B11313&title_color=E23636&hide_border=true&custom_title=Night%20Patrol%20Activity" />
 
----
+</details>
 
-## 🧠 `> cat web_blueprint.yaml`
+<img src="./assets/web-divider.svg" width="100%" />
+
+## 🎯 Current Missions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔴 Active**
+- 🏗️ Making NETRA-I deployment-ready
+- 🌊 Going deeper into distributed & real-time systems
+- 🤖 Shipping practical AI with solid backends
+
+</td>
+<td width="50%" valign="top">
+
+**🔵 In Training**
+- ☁️ Cloud architecture & deployment
+- 🧪 Testing, observability, security & performance
+- 🧑‍🏫 Better learning experiences for students
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧠 How I build</b>: the web blueprint</summary>
+
+<br/>
 
 ```yaml
 engineering_mindset:
-  architecture:      # every strand has a purpose
+  architecture:   # every strand has a purpose
     - Build modular, maintainable systems
     - Design clear interfaces between components
-
-  data:              # a web is only as strong as its anchors
+  data:           # a web is only as strong as its anchors
     - Prioritize data quality and reliability
     - Understand pipelines from ingestion to consumption
-
-  intelligence:      # power is nothing without judgement
+  intelligence:   # power needs judgement
     - Apply AI where it solves a real problem
     - Evaluate models beyond simply making predictions
-
-  delivery:          # test the swing before the jump
+  delivery:       # test the swing before the jump
     - Test before deploying
     - Measure performance and improve iteratively
-
-  collaboration:     # nobody patrols the city alone
+  collaboration:  # nobody patrols the city alone
     - Share knowledge
     - Learn through building and feedback
 ```
 
----
+</details>
 
-## 🎯 `> tail -f mission_log.txt`
+<details>
+<summary><b>🌆 Off duty</b></summary>
 
-```
-[ACTIVE]   🏗️  Making NETRA-I more robust, reliable & deployment-ready
-[ACTIVE]   🌊  Going deeper into distributed systems & real-time processing
-[ACTIVE]   🤖  Building practical AI apps with reliable backend integration
-[TRAINING] ☁️  Strengthening cloud architecture & deployment skills
-[TRAINING] 🧪  Improving testing, observability, security & performance
-[ONGOING]  🧑‍🏫  Creating better technical learning experiences for students
-```
+<br/>
 
----
+🧑‍🏫 Mentoring & designing assessments &nbsp;·&nbsp; 📚 Books & new tech &nbsp;·&nbsp; 📷 Photography &nbsp;·&nbsp; 🧩 Building & breaking things to learn
 
-## 🌆 `> ls off_duty/`
+</details>
 
-```
-🧑‍🏫  mentoring/        ← sharing knowledge, building assessments
-📚  books/            ← engineering concepts & new technologies
-📷  photography/      ← creative exploration from the rooftops
-🧩  experiments/      ← solving problems by building and breaking things
-```
-
----
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=E23636&center=true&vCenter=true&width=650&lines=%24+web+status+--+all+threads+holding+strong;%5BSENSE%5D+%E2%9C%93+%5BSWING%5D+%E2%9C%93+%5BBUILD%5D+%E2%9C%93+%5BSHIP%5D+%E2%9C%93+%5BREPEAT%5D+%E2%9C%93" alt="footer" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D51,50:B11313,100:0B1D51&height=110&section=footer&text=Always%20building.%20Always%20learning.&fontSize=20&fontColor=FFFFFF&fontAlignY=70" />
+<br/><br/>
 
-<sub>🕸️ Sahil Karande · Mumbai, India · Engineering intelligent systems for real-world impact</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=4FA3FF&center=true&vCenter=true&width=600&lines=%24+web+status+--+all+threads+holding;%5BSENSE%5D+%E2%9C%93+%5BSWING%5D+%E2%9C%93+%5BBUILD%5D+%E2%9C%93+%5BSHIP%5D+%E2%9C%93+%5BREPEAT%5D+%E2%9C%93" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D51,50:B11313,100:0B1D51&height=100&section=footer&text=Always%20building.%20Always%20learning.&fontSize=18&fontColor=FFFFFF&fontAlignY=72" />
 
 </div>
