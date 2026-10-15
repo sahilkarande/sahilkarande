@@ -171,10 +171,6 @@ technical-mentoring          █████████░    🔴 SWINGING
 
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=0B0F1F&border=B11313&stroke=1E3A8A&ring=E23636&fire=4FA3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E23636&sideLabels=4FA3FF&dates=9CA3AF" />
 
-### 🏆 Trophy Wall
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
 ### 🏙️ The City I Protect
 <sub>My contributions rendered as a 3D night skyline. It updates daily.</sub>
 
